@@ -36,11 +36,11 @@ Players can experience a few days in Kevin’s life, interact with his environme
 
 ## 📷 Screenshots
 
-> Add screenshots of gameplay here  
-
-<img width="1783" height="441" alt="image" src="https://github.com/user-attachments/assets/eea8e3b3-0651-42eb-80c9-97076b7781b0" />
+> screenshots of gameplay
 
 <img width="1643" height="359" alt="image" src="https://github.com/user-attachments/assets/d470c0cc-c3d7-4185-976b-5cacec4c7cb6" />
+
+<img width="1783" height="441" alt="image" src="https://github.com/user-attachments/assets/eea8e3b3-0651-42eb-80c9-97076b7781b0" />
 
 <img width="1570" height="508" alt="image" src="https://github.com/user-attachments/assets/7096a0a4-9082-49c6-92fd-edbf64bcc836" />
 
