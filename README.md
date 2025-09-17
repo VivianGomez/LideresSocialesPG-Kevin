@@ -29,12 +29,12 @@ Players can experience a few days in Kevin’s life, interact with his environme
 - 🏡 **Interactive environments**: bedroom, kitchen, street, and community spaces.
 - 📜 **Narrative system**: dialogues, letters, and newspapers.  
 <img width="1783" height="441" alt="image" src="https://github.com/user-attachments/assets/eea8e3b3-0651-42eb-80c9-97076b7781b0" />
+-
+<img width="1654" height="600" alt="image" src="https://github.com/user-attachments/assets/88e798b6-4f80-4b3b-aa74-d3bd0aa10f63" />
 
  - 🍞 **Daily life mechanics**: balance Kevin’s energy with food, sleep, and activities.
 - 🎵 **Audio & immersion**: ambient music and sound effects.
 <img width="1570" height="508" alt="image" src="https://github.com/user-attachments/assets/7096a0a4-9082-49c6-92fd-edbf64bcc836" />
--
-<img width="1654" height="600" alt="image" src="https://github.com/user-attachments/assets/88e798b6-4f80-4b3b-aa74-d3bd0aa10f63" />
 
 - ✊ **Awareness impact**: symbolic ending highlighting violence against social leaders.  
 <img width="2495" height="518" alt="image" src="https://github.com/user-attachments/assets/6b485072-788d-425b-8643-f8aedc6e324c" />
