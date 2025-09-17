@@ -56,16 +56,17 @@ Video gameplay available here: [https://youtu.be/4ISS7MHfs3g](https://youtu.be/4
    ```bash
    git clone https://github.com/VivianGomez/LideresSocialesPG-Kevin.git
    cd LideresSocialesPG-Kevin
-Open with Unity 2019.2.x (or later compatible version).
 
-Press ▶️ Play in the Unity editor or build for your platform (PC recommended).
+2. Open with Unity 2019.2.x (or later compatible version).
 
-📈 Context
+3. Press ▶️ Play in the Unity editor or build for your platform (PC recommended).
+
+## 📈 Context
 This Unity project is a proof of concept for the larger thesis “Pequeños Grandes Héroes”, where multiple stories of Colombian social leaders can be created in JSON format and turned into games.
 
 This repository focuses exclusively on Kevin Julián León’s story, serving as the first playable case study.
 
-👩‍💻 Authors
+## 👩‍💻 Authors
 Vivian Gómez Cubillos
 
 Kelly Peñaranda Rivera
