@@ -21,6 +21,7 @@ Players can experience a few days in Kevin’s life, interact with his environme
 - **Platform**: PC (Windows)  
 - **Architecture**: Loads Kevin’s story from a structured JSON file (characters, environments, dialogues).  
 - **Database**: Firebase Realtime Database (for multimedia content).  
+- **Sources**: [Datasketch – Líderes Sociales](http://lideres-sociales.datasketch.co/) and [Postales para la Memoria](http://postalesparalamemoria.com/).  
 
 ---
 
@@ -70,3 +71,6 @@ Vivian Gómez Cubillos
 Kelly Peñaranda Rivera
 
 Advisor: Pablo Figueroa Forero
+
+## 🙏 Special thanks to **Postales para la Memoria** for allowing us to use their art and images for a shared purpose around honoring and remembering all social leaders.
+
