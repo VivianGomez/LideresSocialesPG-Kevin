@@ -33,10 +33,11 @@ Players can experience a few days in Kevin’s life, interact with his environme
  - 🍞 **Daily life mechanics**: balance Kevin’s energy with food, sleep, and activities.
 - 🎵 **Audio & immersion**: ambient music and sound effects.
 <img width="1570" height="508" alt="image" src="https://github.com/user-attachments/assets/7096a0a4-9082-49c6-92fd-edbf64bcc836" />
-
-  
-- ✊ **Awareness impact**: symbolic ending highlighting violence against social leaders.  
+-
 <img width="1654" height="600" alt="image" src="https://github.com/user-attachments/assets/88e798b6-4f80-4b3b-aa74-d3bd0aa10f63" />
+
+- ✊ **Awareness impact**: symbolic ending highlighting violence against social leaders.  
+<img width="2495" height="518" alt="image" src="https://github.com/user-attachments/assets/6b485072-788d-425b-8643-f8aedc6e324c" />
 
 
 ---
@@ -44,6 +45,7 @@ Players can experience a few days in Kevin’s life, interact with his environme
 ## 🎥 Gameplay Video
 
 [![Watch the video](https://github.com/user-attachments/assets/d470c0cc-c3d7-4185-976b-5cacec4c7cb6)](https://youtu.be/4ISS7MHfs3g)  
+Video gameplay available here: [https://youtu.be/4ISS7MHfs3g](https://youtu.be/4ISS7MHfs3g)
 
 ---
 
